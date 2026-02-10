@@ -7,7 +7,7 @@ I initiated the repo with a README so there would be documentation from the star
 I chose No. gitignore because I'm not coding anything yet.  
 I chose the MIT license because it's the simplest.  
 
-# **Important Notice**
+# Important Notice
 > [!WARNING]
-> ⚠️ Warning: This repo was created by a total novice who is unsure as to what he is doing half of the time.  
+> **⚠️ Warning:** This repo was created by a total novice who is unsure as to what he is doing half of the time.  
 > Said novice is learning from Dr. @guyer in ENMA165 at UMD.
