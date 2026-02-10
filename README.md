@@ -9,5 +9,5 @@ I chose the MIT license because it's the simplest.
 
 # Important Notice
 > [!WARNING]
-> ⚠️ This repo was created by a **total novice** who is unsure as to what he is doing half of the time.  
+> :warning: This repo was created by a **total novice** who is unsure as to what he is doing half of the time.  
 > Said novice is learning from Dr. @guyer in ENMA165 at UMD.
